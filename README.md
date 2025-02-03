@@ -6,6 +6,7 @@ Teknologi yang Digunakan
 -Database: MySQL
 -Front-End: HTML, Bootsrap CSS
 -Bahasa Pemrograman: PHP
+-Framework: Codeigniter 3
 
 
 MENGAMBIL DATA DARI API https://recruitment.fastprint.co.id/tes/api_tes_programmer 
