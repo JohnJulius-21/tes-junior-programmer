@@ -72,7 +72,7 @@ class Produk extends CI_Controller
         $data['produk'] = $this->Produk_model->get_produk_by_id($id);
         $data['kategori'] = $this->Kategori_model->get_all_kategori();
         $data['status'] = $this->Status_model->get_all_status();
-		$this->load->view('produk/edit', $data);
+	$this->load->view('produk/edit', $data);
     }
 
     /**
