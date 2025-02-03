@@ -2,8 +2,7 @@
 
 Teknologi yang Digunakan
 
-Framework: CodeIgniter 3
-Database: MySQL
-Front-End: HTML, CSS, jQuery
-Server: Apache/Nginx
-Bahasa Pemrograman: PHP
+-Framework: CodeIgniter 3
+-Database: MySQL
+-Front-End: HTML, Bootsrap CSS
+-Bahasa Pemrograman: PHP
