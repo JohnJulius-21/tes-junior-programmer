@@ -11,11 +11,16 @@ Teknologi yang Digunakan
 -MENGAMBIL DATA DARI API https://recruitment.fastprint.co.id/tes/api_tes_programmer MENGGUNAKAN POSTMAN
 ![image](https://github.com/user-attachments/assets/16dc8a72-bb46-42be-a846-08bdbb8aa6ab)
 
--MEMBUAT DATABASE BERDASARKAN PRODUK DISEDIAKAN PADA API
+-MEMBUAT DATABASE BERDASARKAN PRODUK DISEDIAKAN PADA API DAN RELASI TIAP TABEL
 ![image](https://github.com/user-attachments/assets/4e0f7835-e2e1-426c-bd03-6cb2af179d05)
 ![image](https://github.com/user-attachments/assets/bdea5493-e61c-48cb-8f6b-9b3110b56b9b)
 ![image](https://github.com/user-attachments/assets/3475063a-b020-4c36-8f0c-abfcf9befc68)
 ![image](https://github.com/user-attachments/assets/e2c058d8-dd45-47bf-8c8c-cb4846ef0951)
+![image](https://github.com/user-attachments/assets/12437a38-5942-45bd-8204-bffd37cd4650)
+![image](https://github.com/user-attachments/assets/e9fcd61a-f948-4533-959a-c44ffd39babe)
+![image](https://github.com/user-attachments/assets/54d20bc5-72fe-4ef4-bdc9-662ccb128944)
+![image](https://github.com/user-attachments/assets/b0724fca-2633-4d7f-b8f8-a9001fe5f01b)
+
 
 -MENGHUBUNGKAN DATABASE DENGAN CODEIGNITER 3
 
