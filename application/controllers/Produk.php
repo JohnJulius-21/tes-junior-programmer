@@ -72,22 +72,7 @@ class Produk extends CI_Controller
         $data['produk'] = $this->Produk_model->get_produk_by_id($id);
         $data['kategori'] = $this->Kategori_model->get_all_kategori();
         $data['status'] = $this->Status_model->get_all_status();
-
-        $this->form_validation->set_rules('nama_produk', 'Nama Produk', 'required');
-        $this->form_validation->set_rules('harga', 'Harga', 'required|numeric');
-
-        if ($this->form_validation->run() == FALSE) {
-            $this->load->view('produk/edit', $data);
-        } else {
-            $update_data = [
-                'nama_produk' => $this->input->post('nama_produk'),
-                'harga' => $this->input->post('harga'),
-                'kategori_id' => $this->input->post('kategori_id'),
-                'status_id' => $this->input->post('status_id')
-            ];
-            $this->Produk_model->update_produk($id, $update_data);
-            redirect('produk');
-        }
+		$this->load->view('produk/edit', $data);
     }
 
     /**
