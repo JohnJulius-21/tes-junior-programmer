@@ -9,7 +9,7 @@ Teknologi yang Digunakan
 -Framework: Codeigniter 3
 
 
--MENGAMBIL DATA DARI API https://recruitment.fastprint.co.id/tes/api_tes_programmer 
+-MENGAMBIL DATA DARI API https://recruitment.fastprint.co.id/tes/api_tes_programmer MENGGUNAKAN POSTMAN
 ![image](https://github.com/user-attachments/assets/16dc8a72-bb46-42be-a846-08bdbb8aa6ab)
 
 -MEMBUAT DATABASE BERDASARKAN PRODUK DISEDIAKAN PADA API
@@ -34,6 +34,7 @@ Teknologi yang Digunakan
 ![image](https://github.com/user-attachments/assets/7626e855-12a2-4936-8912-3aecf9d6fe12)
 
 
--MEMBUAT TAMPILAN UNTUK MENAMPILKAN PRODUK YANG BISA DIJUAL
- 1. MEMBUAT FUNCTION INDEX UNTUK MEMNAMPILKAN 
+-MEMBUAT CONTROLLER PRODUK
+ 1. MEMBUAT FUNCTION INDEX UNTUK MEMNAMPILKAN PRODUK DAN MENGGUNAKAN MODEL PRODUK YANG BISA DIJUAL DENGAN FUNCTION get_produk_by_status 
+![image](https://github.com/user-attachments/assets/5e9fcf91-b247-454f-97c1-d28b8810af31)
 
