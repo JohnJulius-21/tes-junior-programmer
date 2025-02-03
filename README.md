@@ -68,7 +68,10 @@ Teknologi yang Digunakan
 3. MEMBUAT TAMPILAN EDIT PRODUK DENGAN BOOTSRAP CSS UNTUK MENAMPILKAN FORM EDIT PRODUK DAN JUGA MENGGUNAKAN FORM_ERROR UNTUK MENAMPILKAN PESAN VALIDASI
 ![codeEdit](https://github.com/user-attachments/assets/7a53d100-949c-4f2a-9fd6-f1bbc4b98e3e)
 ![image](https://github.com/user-attachments/assets/37393264-928f-407b-969d-7dd786508ad2)
+![image](https://github.com/user-attachments/assets/fe9832e7-adf4-4a4f-9ce8-b0abf081d7ad)
+
 
 -MEMBUAT ROUTES 
+
 ![image](https://github.com/user-attachments/assets/a814a169-3021-4be5-882d-446f2fd9b871)
 
