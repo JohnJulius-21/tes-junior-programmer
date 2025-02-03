@@ -18,7 +18,7 @@ Teknologi yang Digunakan
 ![image](https://github.com/user-attachments/assets/3475063a-b020-4c36-8f0c-abfcf9befc68)
 ![image](https://github.com/user-attachments/assets/e2c058d8-dd45-47bf-8c8c-cb4846ef0951)
 
--MENHUBUNGKAN DATABASE DENGAN CODEIGNITER 3
+-MENGHUBUNGKAN DATABASE DENGAN CODEIGNITER 3
 
 ![image](https://github.com/user-attachments/assets/f0427413-3cbc-4246-a461-1cc3f7c2187e)
 
